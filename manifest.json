@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.doqe.TokyoNightReplugged",
+  "name": "Tokyo Night (replugged)",
+  "description": "A Clean, Dark Discord Theme Based on Tokyo Night Scheme. (reuploaded)",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Astrath",
+    "discordID": "354831939099688962",
+    "github": "Dyzean"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "doqedev/TokyoNightReplugged"
   },
   "license": "MIT",
   "type": "replugged-theme",
